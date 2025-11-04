@@ -1,0 +1,16 @@
+{
+  "id": "webflow-seo-metadata-auditor",
+  "description": "Audit and improve Webflow page metadata via MCP tools with a summary-first output and optional downloadable full report. Includes deterministic scoring rubric, safety guardrails, and apply/verify workflow.",
+  "tags": [
+    "webflow",
+    "seo",
+    "mcp",
+    "audit",
+    "metadata",
+    "pages",
+    "summary-first"
+  ],
+  "variables": {},
+  "metadata": {},
+  "contentFile": "webflow-seo-metadata-auditor.md"
+}

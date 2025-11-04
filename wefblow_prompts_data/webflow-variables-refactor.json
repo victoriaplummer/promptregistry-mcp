@@ -1,0 +1,15 @@
+{
+  "id": "webflow-variables-refactor",
+  "description": "Audits Webflow styles to link properties to Variables; creates missing variables, updates styles, and verifies changes via MCP Designer tools.",
+  "tags": [
+    "webflow",
+    "designer",
+    "variables",
+    "refactor",
+    "styles",
+    "automation"
+  ],
+  "variables": {},
+  "metadata": {},
+  "contentFile": "webflow-variables-refactor.md"
+}
